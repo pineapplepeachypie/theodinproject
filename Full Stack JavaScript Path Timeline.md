@@ -1,10 +1,15 @@
 Full Stack JavaScript Path
 
 * Intermediate HTML and CSS
+  
 	*Intermediate HTML Concepts - 3 hours
+  
 	*Intermediate CSS Concepts - 6 hours
+  
 	*Forms - 1.5 hours
+  
 	*Grid - 2 hours
+  
 Total: 12.5 hours
 
 * JavaScript
